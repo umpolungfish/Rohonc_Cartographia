@@ -1,0 +1,17 @@
+[project]
+name = "rohonc-cartographia"
+version = "1.0.0"
+description = "Rohonc Cartographia — topological regime classifier for the Rohonc Codex"
+requires-python = ">=3.11"
+license = {text = "Unlicense"}
+dependencies = []
+
+[tool.uv.sources]
+rohonc-engine = { path = "../lang/rohonc-engine", editable = true }
+
+[project.scripts]
+rc = "rohonc_cartographia.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
