@@ -6,11 +6,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/badges/shields)
 **Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
 
-
 **A topological regime classifier for the Rohonc Codex.**  
 The 448 pages divide into four structurally distinct topological regimes: liturgical identity-loop chains, pictographic narrative networks, astronomical closed-loop circuits, and mixed full-spectrum regimes.
-
-**Author:** Lando⊗⊙perator
 
 ## Quick Start
 
