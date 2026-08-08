@@ -12,13 +12,13 @@ cd Rohonc_Cartographia
 pip install -e .
 
 # Look up a page
-rc lookup 42
+rohonc lookup 42
 
 # List pages by regime
-rc list --regime astronomical
+rohonc list --regime astronomical
 
 # Classify a topological signature
-rc classify --thorn 𐑰 --ring 𐑩 --gamma 𐑝 --omega 𐑷
+rohonc classify --thorn 𐑰 --ring 𐑩 --gamma 𐑝 --omega 𐑷
 ```
 
 ## Structural Type
