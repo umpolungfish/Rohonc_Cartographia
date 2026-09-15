@@ -33,15 +33,15 @@ Self-reflective classification criteria: the engine's regime assignments are str
 
 ## Contents
 
-- `rohonc_cartographia/` — Python package (navigator, CLI)
-- `CARTOGRAPHIA.md` — Definitive structural document
-- `ENGINE.md` — Engine specification
-- `COMPLETE_LISTING.md` — Full page inventory by regime
-- `lean/` — Lean 4 companion files
-- `programs/` — Engine source code
-- `data/` — RTFF (Rohonc Transcription File Format) corpus
-- `manuscripts/` — Source page photographs
-- `images/` — Regime transition diagrams
+- `rohonc_cartographia/` - Python package (navigator, CLI)
+- `CARTOGRAPHIA.md` - Definitive structural document
+- `ENGINE.md` - Engine specification
+- `COMPLETE_LISTING.md` - Full page inventory by regime
+- `lean/` - Lean 4 companion files
+- `programs/` - Engine source code
+- `data/` - RTFF (Rohonc Transcription File Format) corpus
+- `manuscripts/` - Source page photographs
+- `images/` - Regime transition diagrams
 
 ## The Four Regimes
 
